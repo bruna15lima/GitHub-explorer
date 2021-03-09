@@ -1,3 +1,5 @@
+import './styles/global.css'
+
 export function App() {
-  return <h1>Ola Mundooo!!</h1>
+  return <h1>Hey Mundooo!!</h1>
 }
